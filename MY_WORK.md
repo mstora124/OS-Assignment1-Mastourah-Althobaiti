@@ -373,13 +373,13 @@ Using fair scheduling ensures that no single large file download or heavy databa
 ## Summary
 
 **Key concepts I understood through these questions:**
-1.
-2.
-3.
+1.How Java threads manage concurrent process execution using the Runnable interface and thread synchronization methods.
+2.The operational mechanism of Round-Robin scheduling and why re-enqueuing unfinished processes ensures CPU fairness.
+3.The distinct states of a thread lifecycle from creation to termination and how system timestamps calculate waiting metrics.
 
 **Concepts I need to study more:**
-1.
-2.
+1.Advanced synchronization locks and thread inter-communication mechanisms.
+2.Multi-core processor scheduling optimization and overhead handling.
 
 ---
 
